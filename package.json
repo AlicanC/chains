@@ -1,6 +1,9 @@
 {
   "name": "@ethereum-lists/chains",
   "type": "module",
+  "files": [
+    "_data"
+  ],
   "exports": {
     "./*": "./_data/chains/*",
     "./icons/*": "./_data/icons/*",
