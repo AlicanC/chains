@@ -2,7 +2,7 @@
   "name": "@ethereum-lists/chains",
   "type": "module",
   "exports": {
-    "./chains/*": "./_data/chains/*",
+    "./*": "./_data/chains/*",
     "./icons/*": "./_data/icons/*",
     "./iconsDownload/*": "./_data/iconsDownload/*"
   }
